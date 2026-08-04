@@ -1,3 +1,15 @@
-numpy/.ipynb_checkpoints/
-numpy/.virtual_documents/
-numpy/anaconda_projects/
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# Jupyter temporary files
+**/.virtual_documents/
+
+# Anaconda project files
+**/anaconda_projects/
+
+# Jupyter layout files
+*.layout
+
+# Python cache
+__pycache__/
+*.pyc
